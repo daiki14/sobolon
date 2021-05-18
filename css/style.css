@@ -166,7 +166,7 @@ li {
 @media print, screen and (min-width: 768px) {
   .top-picture {
     padding-top: 55%;
-    background: url(../img/top.png) top right/82.5% no-repeat;
+    background: url(/img/top.png) top right/82.5% no-repeat;
   }
 }
 
