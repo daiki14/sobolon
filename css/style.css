@@ -160,13 +160,13 @@ li {
 
 .top-picture {
   padding-top: 120%;
-  background: url(https://github.com/daiki14/sobolon/blob/main/img/sp/top.png?raw=true) center center/cover;
+  background: url(../img/sp/top.png) center center/cover;
 }
 
 @media print, screen and (min-width: 768px) {
   .top-picture {
     padding-top: 55%;
-    background: url(https://github.com/daiki14/sobolon/blob/main/img/top.png?raw=true) top right/82.5% no-repeat;
+    background: url(..img/top.png) top right/82.5% no-repeat;
   }
 }
 
