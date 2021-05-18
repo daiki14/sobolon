@@ -160,13 +160,13 @@ li {
 
 .top-picture {
   padding-top: 120%;
-  background: url(/img/sp/top.png) center center/cover;
+  background: url(https://github.com/daiki14/sobolon/blob/main/img/sp/top.png?raw=true) center center/cover;
 }
 
 @media print, screen and (min-width: 768px) {
   .top-picture {
     padding-top: 55%;
-    background: url(/img/top.png) top right/82.5% no-repeat;
+    background: url(https://github.com/daiki14/sobolon/blob/main/img/top.png?raw=true) top right/82.5% no-repeat;
   }
 }
 
@@ -343,13 +343,13 @@ li {
   color: #fff;
   position: relative;
   padding: 176px 0 52px;
-  background: url(/img/sp/bg.png) center center/cover;
+  background: url(https://github.com/daiki14/sobolon/blob/main/img/sp/bg.png?raw=true) center center/cover;
 }
 
 @media print, screen and (min-width: 768px) {
   .about {
     padding: 120px 0;
-    background: url(/img/bg.png) center center/cover;
+    background: url(https://github.com/daiki14/sobolon/blob/main/img/bg.png?raw=true) center center/cover;
   }
 }
 
@@ -686,7 +686,7 @@ li {
 # contact
 =========================================================== */
 .contact {
-  background: url(/img/contact.png) center center/cover;
+  background: url(https://github.com/daiki14/sobolon/blob/main/img/contact.png?raw=true) center center/cover;
   margin-top: 92px;
   padding: 56px 28px;
 }
